@@ -1,0 +1,33 @@
+---
+title: "Homework 4"
+author: "Anna Cook"
+date: "11/9/2021"
+output: pdf_document
+---
+
+## Question 1
+
+No, CD40 is not a predictor of treatment in the first interval, because the sample sizes are equal for both treatment groups so there would be no way to predict treatment given only CD40. 
+
+## Question 2
+
+Yes, CD41 is a predictor of treatment in the second interval. For example, we can look at CD40 < 200 and A0=0. For CD41 > 200, the probability of receiving treatment A1=1 is 25/150, or .1667. For CD41 < 200, the probability of receiving treatment A1=1 is 112/262, or .427. So for this example, patients in the CD41 < 200 group are more likely to receive treatment 1. 
+
+## Question 3
+
+Yes, CD40 is a predictor of TD when we look at A0=1. The probability of TD in CD40 < 200 and A0=1 is 50/500, whereas the probability of TD in CD40 > 200 and A0=1 is 25/500. So patients in the CD40 < 200 group with treatment A0=1 are twice as likely to experience TD than those patients in CD40 > 200 with A0=1. 
+
+## Question 4
+
+Although there are equal numbers of patients initiating each treatment within each CD4 count group, we can see that the rate of TDs for patients with the 3 drug treatment than the 4 drug treatment. This may be an indication that there's some confounding going on, or some baseline covariates that need to be measured and taken into account.
+
+## Question 5
+
+## Question 6
+
+This would be an example of an intention to treat analysis because you aren't actually taking into account whether a patient fully completed the treatment. I think this would lead to a biased estimate of what would have happened if everyone had taking the 3 drug regimen because in reality some patients switched treatments, some stopped treatment, and some stuck with the same ones. However, this might be helpful if the question you were interested in was 
+
+## Question 7
+
+## Question 8
+
